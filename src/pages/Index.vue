@@ -9,12 +9,259 @@
             <li class="border-l-4 border-green-600"><a href=""><span>Svg</span><span>Radio</span></a></li>
 
           </ul>
-          <div class="overflow-y-auto sidebar-spotify">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eaque nostrum sint in accusamus, facere laudantium nihil temporibus ipsum illum sapiente reprehenderit deserunt, rerum amet hic aperiam saepe! Quasi illo veniam nisi cupiditate ut, quibusdam consectetur, debitis tempora, dolorum cum culpa porro! Molestiae eos earum, maiores laboriosam vitae laudantium adipisci odit autem ipsum sed non cum iure dignissimos facilis temporibus vel error? Eum ullam excepturi et iste enim voluptates officiis consequuntur similique. Asperiores vitae animi quibusdam, excepturi reprehenderit expedita laudantium cum similique tenetur temporibus, minus praesentium deserunt voluptatem atque iusto illum amet eum veritatis ab quae saepe quia magnam sed! Architecto ut modi nisi cupiditate dolores quia ipsum amet similique! Expedita ipsa deleniti numquam voluptatem, ex aliquam ipsam explicabo nisi aut corrupti aspernatur suscipit eaque officiis. Quisquam quam eveniet adipisci maiores culpa nostrum commodi beatae obcaecati ad odio unde officia, ullam voluptas, dolorum, quas pariatur. Eius, asperiores! At repellendus, similique neque voluptas voluptate dicta adipisci sunt. Corrupti doloremque corporis ad amet, tempora, voluptatum temporibus libero deserunt eveniet sapiente quidem quasi fugit harum necessitatibus sit accusantium aliquid laboriosam quos eligendi porro dolores omnis eius? Repudiandae aliquam natus, cumque magnam sequi et exercitationem quaerat, dolor ullam ipsum quia voluptatibus officiis dolorum veniam? Veritatis.</div>
+          <div class="overflow-y-auto sidebar-spotify px-5 mt-2">
+            <h3 class="uppercase tracking-widest text-gray-500 font-normal text-xs">Your Library</h3>
+            <ul class="leading-extra-loose">
+              <li class="truncate"><a
+                  href="#"
+                  class="hover:text-white"
+                >Made For You</a></li>
+              <li class="truncate"><a
+                  href="#"
+                  class="hover:text-white"
+                >Made For You</a></li>
+              <li class="truncate"><a
+                  href="#"
+                  class="hover:text-white"
+                >Made For You</a></li>
+              <li class="truncate"><a
+                  href="#"
+                  class="hover:text-white"
+                >Made For You</a></li>
+              <li class="truncate"><a
+                  href="#"
+                  class="hover:text-white"
+                >Made For You</a></li>
+              <li class="truncate"><a
+                  href="#"
+                  class="hover:text-white"
+                >Made For You</a></li>
+            </ul>
+            <h3 class="uppercase tracking-widest mt-6 text-gray-500 font-normal text-xs">Playlists</h3>
+            <ul class="leading-extra-loose">
+              <li class="truncate"><a
+                  href="#"
+                  class="hover:text-white"
+                >Made For You</a></li>
+              <li class="truncate"><a
+                  href="#"
+                  class="hover:text-white"
+                >Made For You</a></li>
+              <li class="truncate"><a
+                  href="#"
+                  class="hover:text-white"
+                >Made For You</a></li>
+              <li class="truncate"><a
+                  href="#"
+                  class="hover:text-white"
+                >Made For You</a></li>
+              <li class="truncate"><a
+                  href="#"
+                  class="hover:text-white"
+                >Made For You</a></li>
+              <li class="truncate"><a
+                  href="#"
+                  class="hover:text-white"
+                >Made For You</a></li>
+            </ul>
+          </div>
           <div>three</div>
         </div>
-        <div class="content-spotify bg-gray-800-spotify flex-1 overflow-y-auto">content area Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos, odit laborum. Itaque iure commodi excepturi quo asperiores tenetur minus reiciendis optio! Nihil recusandae libero necessitatibus, facere veniam ipsa optio, quod culpa atque aut iure, excepturi commodi corporis neque? A quam pariatur possimus, maiores animi optio? Magni sequi dolorem aliquam laboriosam. Id incidunt laborum quaerat ducimus quod reiciendis enim excepturi, atque temporibus laudantium voluptate. Corporis vero sunt autem minus sint molestiae consectetur, eius maiores saepe aliquid, aliquam, doloremque nesciunt dolorem provident voluptas? Aut nostrum, eius repellat excepturi suscipit id consequatur accusantium quod consequuntur voluptatum dignissimos aliquid amet quia aliquam nemo quaerat magni fuga illum eos doloremque. Vel quasi hic quisquam, consectetur pariatur ipsam possimus in deleniti saepe doloribus earum eius, officia inventore cum. Excepturi cum repudiandae quod iusto quo reiciendis minima alias, atque modi in ea, est, error dignissimos delectus blanditiis? Quos iusto explicabo ea atque vitae neque dolores in tempore quod eum blanditiis nemo, sint dolorem repellendus obcaecati dolore. Voluptas commodi excepturi, blanditiis nulla tempora, sint doloremque quam doloribus atque quas rerum. Inventore enim earum minus odio, recusandae laboriosam praesentium numquam officia. Voluptates, sequi officia. Cupiditate labore similique nihil ipsa reprehenderit est quis quasi soluta ducimus dolor non deserunt praesentium atque et magni, harum, nam odio ex eaque esse quam tempora! Delectus rem, magnam quidem itaque fugit iusto esse quam facilis in quibusdam inventore commodi, rerum repellat mollitia. Explicabo at quidem dolore distinctio praesentium, quod minima quis sequi placeat. Blanditiis voluptatem libero accusamus asperiores nisi excepturi vitae modi? Adipisci autem quasi provident placeat officia delectus est ex totam ad necessitatibus odit, assumenda hic quam fugit iusto quis beatae! Obcaecati ipsam aut nihil suscipit quod! Accusantium quae esse impedit excepturi, at vel laborum amet temporibus optio quo quos non repudiandae voluptatum magnam enim alias recusandae maxime earum iusto natus exercitationem voluptates. Rem, facilis. Quidem provident impedit fuga consequuntur reprehenderit tenetur consequatur dolores doloribus repellat eveniet debitis illo delectus officia ad error iure, ipsa expedita itaque modi magni quo eos ab nisi. Esse possimus quia quis? Nam, error commodi exercitationem ab sed sint, cum blanditiis corporis, quia quam dolores incidunt dolore? Velit unde architecto ratione a nesciunt error beatae quae omnis, porro magni recusandae sint repellat, veritatis eius molestiae quia? Repellendus recusandae doloribus consequatur explicabo quisquam. Laborum voluptates reiciendis quidem iure quae, dolorum ducimus omnis asperiores deserunt amet? A reiciendis rem non debitis hic sapiente repellendus doloribus consequuntur exercitationem animi delectus tempora fuga officiis nostrum nihil est sunt mollitia, quasi assumenda. Voluptas aliquid dolorum ex. Obcaecati amet ullam exercitationem libero totam, suscipit vero, quia porro optio repellat ea! Adipisci molestiae nemo, a quod esse, omnis sapiente laborum blanditiis rem autem, quas cupiditate. Quisquam dolor quaerat et nulla laborum quae blanditiis, ipsum vitae cupiditate, ab sequi non voluptas fugiat accusamus id, praesentium nisi ipsam beatae harum sint hic esse sed corrupti. Saepe, sint at. At eos autem itaque ipsum rem doloremque consequuntur voluptas animi accusamus quos suscipit ab minima repellendus, eius saepe similique accusantium obcaecati provident voluptatum nihil nesciunt temporibus! Odit accusamus inventore sed voluptatum dignissimos laboriosam sit, ea delectus! Praesentium culpa reiciendis quasi architecto in odio a hic, laborum pariatur assumenda modi quibusdam alias! Nisi debitis cumque repellat quia recusandae, nemo voluptas voluptatibus, voluptate et totam rem repudiandae unde sequi expedita! Pariatur sunt dicta repellendus, inventore corrupti dolorem beatae vel quas, expedita voluptas voluptates recusandae praesentium ipsum cumque hic nam molestiae quasi amet iste vero! Distinctio iure quos cupiditate, unde vero soluta molestias ducimus velit dicta! Similique recusandae optio repudiandae fugit odio hic, adipisci minima saepe illum alias dignissimos quisquam quo consequatur architecto iure provident eum possimus quia veniam necessitatibus eligendi quidem maxime. Earum velit esse eaque officiis ab neque modi quas, repellendus ipsam veritatis rerum aliquid voluptates architecto laudantium eos quis quisquam, sint iste distinctio explicabo? Inventore aliquid maiores eveniet itaque, perferendis reiciendis, voluptate, deserunt tenetur sint illum quod minus odio ipsam sunt deleniti vero nihil neque provident? Possimus quae rerum dignissimos suscipit quis cumque? Nisi, magnam? Optio explicabo error distinctio repudiandae quidem, similique porro aliquid laudantium unde ratione ullam autem dolorem, modi, facilis voluptatem officiis numquam! Consequatur ad possimus modi laborum voluptas? Maxime repellat commodi accusamus quisquam ipsa sit quam aperiam sequi officia quo. Soluta nihil labore sapiente inventore! Assumenda laborum pariatur, repellendus nisi in labore, accusantium iste est praesentium illo nobis numquam. Dolore reprehenderit nam tempora ratione, quis asperiores impedit laudantium voluptates nemo iure obcaecati eveniet odio ipsam, distinctio facere earum blanditiis dolor voluptatum recusandae illo voluptatem eaque nisi! Magnam hic esse delectus, repellendus ab exercitationem minus. Quis, libero obcaecati cupiditate dolores nihil est voluptas numquam vero itaque repellendus voluptate reprehenderit rerum ipsam architecto perspiciatis eaque accusantium sit fugiat odit fugit, nemo hic commodi asperiores maxime! Esse commodi est aut. A ab voluptates numquam accusantium pariatur ea, commodi, nesciunt perferendis minima eius corrupti dicta quas. Obcaecati accusamus natus quia dolorem tenetur corporis doloribus quasi, neque quisquam minima laudantium voluptatibus, atque cum aut tempore, quaerat asperiores aliquam odit eaque. Temporibus perferendis aut itaque vel veritatis eaque, expedita veniam deleniti blanditiis delectus dicta provident aliquam quasi unde quae repellat hic quibusdam dolorum, laborum eligendi, consequuntur architecto maiores. Animi minus cum accusamus sint impedit culpa ipsa dolorem error sed optio, velit, quaerat sequi accusantium nemo blanditiis repellat incidunt saepe, ullam quibusdam. Accusamus pariatur dolorem deserunt rerum sequi sit, ad laudantium reprehenderit explicabo, rem praesentium eveniet quam facere delectus at, necessitatibus blanditiis commodi neque esse iure minus hic. Repellendus atque illo dicta exercitationem dolores tempora cumque nulla quod eius, laudantium non magni laboriosam rem fugiat odit ratione animi quas hic facilis dolorem libero tenetur expedita voluptatem. Officiis expedita cum aliquam a dolorem recusandae, magnam suscipit veritatis odit eaque, est dolorum, nobis quasi harum. Repellat error dolores dolore aliquid impedit accusantium quaerat quas ab? At necessitatibus numquam culpa quis eius cupiditate deleniti optio odit aliquid maiores amet atque ipsa dolore sunt, tempore fuga vel nesciunt et maxime saepe inventore? In, et alias corporis autem magni sint asperiores molestiae optio, qui laborum ea animi quaerat nemo officiis. Error repellat sunt, perferendis dignissimos libero ratione magnam ducimus asperiores expedita esse facere eveniet, dolorem at qui, nostrum nobis tenetur? Dicta ad a officia illum tempora laborum adipisci cupiditate minus amet eum porro provident, doloribus quasi molestiae, cum aliquam maiores, modi facere exercitationem delectus assumenda? Ex consequatur eligendi, sint exercitationem, dolore a odit iste mollitia sunt est recusandae quia dolorem dolor modi tenetur culpa soluta? Totam, quidem ea. Tempore, consequatur, quo atque inventore eos, ex ipsam porro qui vero quaerat quam quod animi! Adipisci saepe omnis quo, dolorem laudantium harum rerum, voluptates aperiam tempore temporibus officia sed hic non expedita voluptatibus eaque similique voluptatum, laborum quibusdam porro eius vel. Magni reiciendis dolores, quas repellat inventore in sint accusantium tempora aspernatur officia doloremque quam consectetur nostrum repellendus, tempore sequi culpa impedit, maxime necessitatibus? Provident voluptas vitae eius aliquid consequuntur. Quisquam dignissimos facere incidunt? Quasi ratione deserunt laborum laudantium molestias quia voluptate excepturi, ipsa sequi iste illum eligendi! Id blanditiis perspiciatis esse obcaecati, eaque ducimus nobis, nostrum reiciendis illum amet exercitationem ut, iste beatae aperiam quas sunt. Sapiente, commodi corrupti? Dolorum dolor aliquam voluptates, aperiam at numquam nostrum excepturi voluptas magnam esse molestiae saepe possimus. Iste, voluptates. Natus expedita quibusdam accusantium error, deleniti quam nulla tempore vel quidem deserunt neque ullam laboriosam molestiae quisquam! Numquam quaerat soluta laborum nam illum, amet dolorum architecto vero in iste ad? Explicabo a, cum pariatur libero repudiandae alias! Fuga cumque cupiditate explicabo assumenda illo quod minus quibusdam quia porro inventore veritatis quas, magnam, blanditiis ab ipsum incidunt temporibus! Deleniti voluptatum corrupti non autem ex, est, deserunt totam atque modi dolore ipsa voluptatibus! Ea nostrum dolor reiciendis molestias, dolorem iusto facilis aperiam sapiente officia rem ullam delectus sequi architecto sed impedit possimus inventore molestiae voluptas amet? Iste, nobis? Voluptate doloremque accusantium unde soluta ratione incidunt sequi accusamus itaque error possimus fuga quis dolore inventore commodi porro et repellendus molestias, illo architecto impedit molestiae saepe! Non nobis doloribus laudantium laboriosam nisi saepe repudiandae nemo! Dicta quasi odio commodi est maiores consectetur distinctio, necessitatibus, porro a itaque esse molestiae accusamus nihil. Quam, atque exercitationem explicabo minus est molestias quia consectetur suscipit officia voluptates asperiores autem dignissimos quasi at corporis commodi placeat, itaque dolorem veritatis quo! Aut expedita molestiae quisquam explicabo vitae itaque, corrupti esse dolor alias natus voluptatibus quo porro doloribus quia deleniti iste illo dolore veritatis? Ducimus tempore rem laudantium? Quae quam debitis repudiandae itaque tenetur animi veniam quaerat reprehenderit recusandae quod voluptas nobis pariatur optio eligendi veritatis voluptatem, ducimus delectus! Corporis, enim molestiae. Debitis hic tempora dolores totam quaerat fugit veritatis dolore enim, maiores expedita vero odio accusamus? Sapiente ipsum saepe possimus incidunt inventore corrupti hic ad nemo quas numquam amet, dolore expedita earum rerum maxime atque harum, reprehenderit at. Labore, nostrum fuga voluptatibus odio dolorum ullam eaque quae corrupti ipsum officia et aliquam eligendi nobis sequi quas illo excepturi, maiores autem aspernatur omnis itaque quisquam deleniti magnam minus! Eaque soluta veniam alias assumenda, neque officia dignissimos iusto laboriosam dolorum nobis quasi, deleniti incidunt reprehenderit excepturi veritatis quia quisquam non expedita ea maiores quaerat. Consequuntur porro ratione labore necessitatibus autem provident minus blanditiis eaque dolor, quam unde! Veniam ducimus architecto nesciunt facilis, repellendus ullam maxime cum tempore iusto quo quia illo laborum a voluptatibus animi ratione nemo deserunt quis officia soluta laudantium adipisci et tempora! Incidunt officia quaerat quibusdam vero tempora molestias quas aspernatur placeat animi? Corporis, eum non dolorum aperiam eaque eveniet. Molestias, dolor dolorum, animi repellendus id ducimus mollitia eum distinctio, et vel blanditiis neque doloremque natus officia possimus porro odit corporis provident. Voluptates eligendi repellendus, corporis iste necessitatibus doloremque accusamus ducimus dolor ex neque sit optio aliquam exercitationem asperiores eos magnam non. Numquam illum doloribus, voluptatem quisquam ullam officia at sunt minima, officiis rem autem voluptates labore facere suscipit placeat similique error laboriosam? Dolores autem dolore maxime. Dolorem, quas cum. Nulla qui optio delectus a provident impedit aperiam, cupiditate minus sit atque eius sequi ullam quasi deleniti quia? Voluptatem sit dolorem numquam quo, nobis tempora aspernatur in eaque mollitia nam qui perspiciatis assumenda id nihil pariatur a tenetur repellat? Provident aliquid ea illo voluptas ex dolore magni exercitationem in modi consectetur harum, veniam nulla id fuga, commodi labore incidunt ipsa velit tempore alias deleniti odit rem? Magni itaque, tenetur nesciunt impedit asperiores accusamus deserunt ea debitis vero qui nisi sint sequi enim neque laboriosam totam id pariatur odio exercitationem corporis assumenda perferendis veritatis! Rerum placeat illum labore saepe tempora at dicta accusamus modi maxime quis temporibus totam fuga vero omnis reiciendis eaque, fugit eius dolorum optio nostrum unde sequi dolores veritatis! Optio quisquam dicta, asperiores explicabo nam neque exercitationem odit illum aperiam facere, quod necessitatibus, sit voluptatem! Deleniti ipsa dignissimos perferendis alias magnam distinctio natus, animi debitis aliquam aspernatur tenetur nesciunt repellat perspiciatis eius, accusamus officiis vero. Ipsum eos perspiciatis dolore voluptatem voluptates laudantium soluta quos, saepe impedit perferendis nisi culpa iusto voluptatum totam optio enim explicabo temporibus obcaecati animi! Qui odio aliquid exercitationem fugit perferendis. Illum, suscipit nostrum dolorem eius, nihil voluptatum minus doloremque, quae dolorum dicta cum rem. In doloremque sint dicta. Totam culpa esse dolorum aperiam quibusdam ut eaque ullam iure quasi. Delectus ipsum velit aliquam, numquam est tenetur, alias accusamus praesentium eum ut unde quisquam, nisi excepturi nam rem natus cum fugit molestias rerum. Maiores molestiae adipisci, iusto vero hic ipsum, explicabo natus dolorem nam aliquid praesentium nemo esse dignissimos minus, modi amet illo! Esse, accusamus, deserunt adipisci fugiat ducimus ipsa animi repellendus aliquam earum aspernatur ipsam expedita, nostrum optio modi molestias hic aperiam cupiditate voluptatum fugit. Dolorum debitis, obcaecati voluptatibus vero tenetur in consectetur sequi repellat minima animi ipsa, sed fugiat nisi, similique autem temporibus iusto eum magnam quia culpa praesentium cum. Ullam ad tempore laudantium vero laborum labore, at quam iusto hic ut reprehenderit eius omnis quo autem rem optio corporis? Iste sequi molestiae vel. Similique mollitia nisi rem ratione repudiandae maiores placeat consectetur iste alias suscipit. Cupiditate minus possimus dolores doloremque incidunt sunt porro impedit, tempora voluptatem perspiciatis voluptas. Nam eveniet iure libero sit est aperiam! Blanditiis fugit sed eaque ea voluptates ut mollitia! Pariatur?</div>
+        <div class="content-spotify bg-gray-800-spotify flex-1 flex flex-col">
+          <div class="top-bar flex items-center justify-between px-4 py-2">
+            <div class="flex items-center">
+              <button>
+                <svg
+                  class="fill-current text-gray-400 hover:text-white h-10 w-10"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  height="24"
+                >
+                  <path d="M14.7 15.3a1 1 0 01-1.4 1.4l-4-4a1 1 0 010-1.4l4-4a1 1 0 011.4 1.4L11.42 12l3.3 3.3z" /></svg>
+              </button>
+              <button class="ml-1">
+                <svg
+                  class="fill-current text-gray-400 hover:text-white h-10 w-10"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  height="24"
+                >
+                  <path
+                    class="heroicon-ui"
+                    d="M9.3 8.7a1 1 0 011.4-1.4l4 4a1 1 0 010 1.4l-4 4a1 1 0 01-1.4-1.4l3.29-3.3-3.3-3.3z"
+                  /></svg>
+              </button>
+              <div class="ml-4 relative">
+                <input
+                  type="text"
+                  placeholder="Search"
+                  class="bg-white text-gray-800 placeholder-gray-800 rounded-full px-3 pl-8 py-1"
+                >
+                <div class="absolute top-0">
+                  <svg
+                    class="fill-current text-gray-800 h-6 w-6 pt-1 pl-2"
+                    viewBox="0 0 24 24"
+                    width="24"
+                    height="24"
+                  >
+                    <path
+                      class="heroicon-ui"
+                      d="M16.32 14.9l5.39 5.4a1 1 0 01-1.42 1.4l-5.38-5.38a8 8 0 111.41-1.41zM10 16a6 6 0 100-12 6 6 0 000 12z"
+                    /></svg>
+                </div>
+              </div>
+            </div>
+            <div class="flex items-center">
+              <button>
+                <svg
+                  class="fill-current text-gray-400 hover:text-white w-6 h-6"
+                  viewBox="0 0 496 512"
+                >
+                  <path d="M248 104c-53 0-96 43-96 96s43 96 96 96 96-43 96-96-43-96-96-96zm0 144c-26.5 0-48-21.5-48-48s21.5-48 48-48 48 21.5 48 48-21.5 48-48 48zm0-240C111 8 0 119 0 256s111 248 248 248 248-111 248-248S385 8 248 8zm0 448c-49.7 0-95.1-18.3-130.1-48.4 14.9-23 40.4-38.6 69.6-39.5 20.8 6.4 40.6 9.6 60.5 9.6s39.7-3.1 60.5-9.6c29.2 1 54.7 16.5 69.6 39.5-35 30.1-80.4 48.4-130.1 48.4zm162.7-84.1c-24.4-31.4-62.1-51.9-105.1-51.9-10.2 0-26 9.6-57.6 9.6-31.5 0-47.4-9.6-57.6-9.6-42.9 0-80.6 20.5-105.1 51.9C61.9 339.2 48 299.2 48 256c0-110.3 89.7-200 200-200s200 89.7 200 200c0 43.2-13.9 83.2-37.3 115.9z" /></svg>
+              </button>
+              <a
+                href="#"
+                class="ml-2 hover:underline hover:text-white"
+              >dredrehimself</a>
+              <button class="ml-4">
+                <svg
+                  class="fill-current text-gray-400 hover:text-white w-6 h-6"
+                  viewBox="0 0 24 24"
+                  width="24"
+                  height="24"
+                >
+                  <path
+                    class="heroicon-ui"
+                    d="M15.3 9.3a1 1 0 011.4 1.4l-4 4a1 1 0 01-1.4 0l-4-4a1 1 0 011.4-1.4l3.3 3.29 3.3-3.3z"
+                  /></svg>
+              </button>
+            </div>
+
+          </div>
+
+        </div>
       </div>
-      <div class="bg-gray-700-spotify">spotify here</div>
+      <div class="bg-gray-700-spotify flex-none h-22 px-5 flex items-center justify-between">
+        <div class="flex items-center">
+          <a href="#"><img
+              src="/albumcover01.jpg"
+              alt="album cover"
+              class="w-14 h-14"
+            ></a>
+          <div class="ml-3">
+            <div><a
+                href="#"
+                class="hover:underline"
+              >Name of Song</a></div>
+            <div><a
+                href="#"
+                class="text-xs text-gray-500 hover:underline hover:text-white"
+              >Artist Name</a></div>
+          </div>
+        </div>
+        <div class="player-controls flex flex-col justify-center">
+          <div class="flex justify-center">
+            <button>
+              <svg
+                class="fill-current text-gray-400 hover:text-white h-4 w-4"
+                viewBox="0 0 20 20"
+              >
+                <path d="M6.59 12.83L4.4 15c-.58.58-1.59 1-2.4 1H0v-2h2c.29 0 .8-.2 1-.41l2.17-2.18 1.42 1.42zM16 4V1l4 4-4 4V6h-2c-.29 0-.8.2-1 .41l-2.17 2.18L9.4 7.17 11.6 5c.58-.58 1.59-1 2.41-1h2zm0 10v-3l4 4-4 4v-3h-2c-.82 0-1.83-.42-2.41-1l-8.6-8.59C2.8 6.21 2.3 6 2 6H0V4h2c.82 0 1.83.42 2.41 1l8.6 8.59c.2.2.7.41.99.41h2z" /></svg>
+            </button>
+            <button class="ml-8">
+              <svg
+                class="fill-current text-gray-400 hover:text-white h-6 w-6"
+                viewBox="0 0 20 20"
+              >
+                <path d="M4 5h3v10H4V5zm12 0v10l-9-5 9-5z" /></svg>
+            </button>
+            <button class="ml-8">
+              <svg
+                class="fill-current text-gray-400 hover:text-white h-8 w-8"
+                viewBox="0 0 20 20"
+              >
+                <path d="M2.93 17.07A10 10 0 1117.07 2.93 10 10 0 012.93 17.07zm12.73-1.41A8 8 0 104.34 4.34a8 8 0 0011.32 11.32zM7 6l8 4-8 4V6z" /></svg>
+            </button>
+            <button class="ml-8">
+              <svg
+                class="fill-current text-gray-400 hover:text-white h-6 w-6"
+                viewBox="0 0 20 20"
+              >
+                <path d="M13 5h3v10h-3V5zM4 5l9 5-9 5V5z" /></svg>
+            </button>
+            <button class="ml-8">
+              <svg
+                class="fill-current text-gray-400 hover:text-white h-4 w-4"
+                viewBox="0 0 24 24"
+                width="24"
+                height="24"
+              >
+                <path d="M5.41 16H18a2 2 0 002-2 1 1 0 012 0 4 4 0 01-4 4H5.41l2.3 2.3a1 1 0 01-1.42 1.4l-4-4a1 1 0 010-1.4l4-4a1 1 0 111.42 1.4L5.4 16zM6 8a2 2 0 00-2 2 1 1 0 01-2 0 4 4 0 014-4h12.59l-2.3-2.3a1 1 0 111.42-1.4l4 4a1 1 0 010 1.4l-4 4a1 1 0 01-1.42-1.4L18.6 8H6z" /></svg>
+            </button>
+          </div>
+          <div class="max-w-full mt-3 flex items-center justify-center">
+            <div class=" text-xs text-gray-500">1:20</div>
+            <div class="bg-gray-500 rounded-lg w-full xl:w-200 h-1 ml-3"></div>
+            <div class="ml-3 text-xs text-gray-500">3:21</div>
+          </div>
+        </div>
+        <div class="volume-controls flex items-center">
+          <button>
+            <svg
+              class="fill-current text-gray-400 hover:text-white h-6 w-6"
+              width="24"
+              height="24"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              />
+              <path d="M15 6H3v2h12V6zm0 4H3v2h12v-2zM3 16h8v-2H3v2zM17 6v8.18c-.31-.11-.65-.18-1-.18-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3V8h3V6h-5z" /></svg>
+          </button>
+          <button class="ml-4">
+            <svg
+              class="fill-current text-gray-400 hover:text-white h-5 w-5"
+              width="24"
+              height="24"
+              viewBox="0 0 24 24"
+            >
+              <path
+                fill="none"
+                d="M0 0h24v24H0z"
+              />
+              <path d="M3 6h18V4H3c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h4v-2H3V6zm10 6H9v1.78c-.61.55-1 1.33-1 2.22s.39 1.67 1 2.22V20h4v-1.78c.61-.55 1-1.34 1-2.22s-.39-1.67-1-2.22V12zm-2 5.5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5zM22 8h-6c-.5 0-1 .5-1 1v10c0 .5.5 1 1 1h6c.5 0 1-.5 1-1V9c0-.5-.5-1-1-1zm-1 10h-4v-8h4v8z" /></svg>
+          </button>
+          <button class="ml-4">
+            <svg
+              class="fill-current text-gray-400 hover:text-white h-5 w-5"
+              width="24"
+              height="24"
+              viewBox="0 0 24 24"
+            >
+              <path d="M3 9v6h4l5 5V4L7 9H3zm13.5 3A4.5 4.5 0 0014 7.97v8.05c1.48-.73 2.5-2.25 2.5-4.02zM14 3.23v2.06c2.89.86 5 3.54 5 6.71s-2.11 5.85-5 6.71v2.06c4.01-.91 7-4.49 7-8.77s-2.99-7.86-7-8.77z" />
+              <path
+                d="M0 0h24v24H0z"
+                fill="none"
+              /></svg>
+          </button>
+          <div class="bg-gray-500 rounded-lg w-20 h-1 ml-3"></div>
+          <button class="ml-4">
+            <svg
+              class="fill-current text-gray-400 hover:text-white h-4 w-4"
+              width="24"
+              height="24"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <path d="M15 3h6v6M9 21H3v-6M21 3l-7 7M3 21l7-7" /></svg>
+          </button>
+        </div>
+      </div>
     </div>
   </Layout>
 </template>
